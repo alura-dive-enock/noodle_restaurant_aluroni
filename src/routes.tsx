@@ -14,13 +14,13 @@ export default function AppRouter() {
       <Router>
         <Menu />
         <Routes>
-          <Route path='noodle_restaurant_aluroni/' element={<PaginaPadrao />} >
+          <Route path='/noodle_restaurant_aluroni/' element={<PaginaPadrao />} >
             <Route index element={<Inicio />} />
-            <Route path='noodle_restaurant_aluroni/cardapio' element={<Cardapio />} />
-            <Route path='noodle_restaurant_aluroni/sobre' element={<Sobre />} />
+            <Route path='/noodle_restaurant_aluroni/cardapio' element={<Cardapio />} />
+            <Route path='/noodle_restaurant_aluroni/sobre' element={<Sobre />} />
           </Route>
-          <Route path='noodle_restaurant_aluroni/prato/:id' element={<Prato />} />
-          <Route path='noodle_restaurant_aluroni/*' element={<NotFound />} />
+          <Route path='/noodle_restaurant_aluroni/prato/:id' element={<Prato />} />
+          <Route path='*' element={<NotFound />} />
         </Routes>
         <Footer />
       </Router>
