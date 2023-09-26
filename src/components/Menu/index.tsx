@@ -8,10 +8,10 @@ export default function Menu() {
     to: '/noodle_restaurant_aluroni/'
   }, {
     label: 'Cardápio',
-    to: '/cardapio'
+    to: '/noodle_restaurant_aluroni/cardapio'
   }, {
     label: 'Sobre',
-    to: '/sobre'
+    to: '/noodle_restaurant_aluroni/sobre'
   }];
   return (
     <nav className={styles.menu}>
