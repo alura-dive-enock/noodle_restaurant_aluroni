@@ -6,4 +6,4 @@
 
 [About and certificate](https://github.com/alura-dive-enock/certificates/tree/main/Courses/Front_End/React/React_getting_to_know_the_React_Router_library)
 
-[View]()
+[View](https://alura-dive-enock.github.io/noodle_restaurant_aluroni)
