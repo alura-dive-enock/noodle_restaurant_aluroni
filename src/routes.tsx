@@ -20,7 +20,7 @@ export default function AppRouter() {
             <Route path='/noodle_restaurant_aluroni/sobre' element={<Sobre />} />
           </Route>
           <Route path='/noodle_restaurant_aluroni/prato/:id' element={<Prato />} />
-          <Route path='*' element={<NotFound />} />
+          <Route path='/noodle_restaurant_aluroni/*' element={<NotFound />} />
         </Routes>
         <Footer />
       </Router>
