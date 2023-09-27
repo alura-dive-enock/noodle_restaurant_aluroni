@@ -8,11 +8,6 @@
 
 [About and certificate](https://github.com/alura-dive-enock/certificates/tree/main/Courses/Front_End/React/React_getting_to_know_the_React_Router_library)
 
-.
-.
-
-<br/>
-
 <br/>
 
 <br/>
