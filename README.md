@@ -10,6 +10,10 @@
 
 <br/>
 
+<br/>
+
+<br/>
+
  <img align="left" width="20%" src='https://github.com/alura-dive-enock/certificates/blob/main/Courses/Front_End/React/React_dealing_with_static_files/assets/icon_alura_React:%20lidando%20com%20arquivos%20est%C3%A1ticos.png?raw=true' />
 
 ## React: dealing with static files
